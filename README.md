@@ -7,5 +7,5 @@ GenSong is a SuperCollider application that creates two different types of music
 
 Some examples:
 
-<a href="54.68.17.127/resources/audio/GenSong1.mp3">GenSong1.mp3</a> <a href="54.68.17.127/resources/audio/GenSong2.mp3">GenSong2.mp3</a>
+<a href="http://www.jonny-baker.com/resources/audio/GenSong1.mp3">GenSong1.mp3</a> <a href="http://www.jonny-baker.com/resources/audio/GenSong2.mp3">GenSong2.mp3</a>
 
